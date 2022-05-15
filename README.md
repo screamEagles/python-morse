@@ -1,2 +1,2 @@
 # python-morse
-This is Python program that translates English words into Morse Code.
+This is Python program that translates English into Morse Code.
